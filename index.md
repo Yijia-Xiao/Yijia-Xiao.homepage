@@ -10,9 +10,14 @@ My research interests include computational biology, natural language processing
 ## Projects
 
 ### Protein-LM
-Pre-trained super large-scale protein language model with Megatron-LM. Protein-LM achieved excellent results on benchmarks provided by [TAPE](https://arxiv.org/abs/1906.08230). Our largest model (with 3 billion parameters) far exceeds the baseline of protein folding contact map prediction.
+Pre-trained super-scale protein language models with Megatron-LM. The largest one (ProteinLM-3B) contains 3 billion parameters, the second largest protein language model in the world. Protein-LM achieved excellent results on benchmarks provided by [TAPE](https://arxiv.org/abs/1906.08230). ProteinLM-3B far exceeds the baseline of protein folding contact map prediction.
 
 Implementation and model files are available [here](https://github.com/THUDM/ProteinLM).
+
+### Protein-MSA
+Pre-trained Unsupervised Contact Prediction with Protein MSA.
+
+Implementation and model files are available [here](https://github.com/Yijia-Xiao/Protein-MSA).
 
 ## Publications
 
