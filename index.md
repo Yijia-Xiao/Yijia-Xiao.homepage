@@ -22,6 +22,8 @@ Pre-trained a 1-billion-parameter model (the world's largest) with proposed *fra
 
 Implementation and model files are available [here](https://github.com/Yijia-Xiao/Protein-MSA).
 
+Detailed information is available [here](https://Yijia-Xiao.github.io/publications/protein-msa.html).
+
 ## Publications
 
 \* for corresponding author
