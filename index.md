@@ -14,6 +14,10 @@ My research interests include computational biology, natural language processing
 ### Protein-LM
 Pre-trained super-scale protein language models with Megatron-LM. The largest one (ProteinLM-3B) contains 3 billion parameters, the second largest protein language model in the world. Protein-LM achieved excellent results on benchmarks provided by [TAPE](https://arxiv.org/abs/1906.08230). ProteinLM-3B far exceeds the baseline of protein folding contact map prediction.
 
+Besides, the work is named *Wen Su* in Chinese, and it is one key partition of WuDao AI [Wikipedia](https://en.wikipedia.org/wiki/Wu_Dao). The protein model has beed used by more than 20 prestigious institutions like [Harvard](https://www.harvard.edu/) and [University of Toronto](https://www.utoronto.ca/). If you are interested in the model file, please apply from [WuDao AI](https://resource.wudaoai.cn/).
+
+<!-- [Harvard](https://www.harvard.edu/) and [University of Toronto](https://www.utoronto.ca/) -->
+
 Implementation and model files are available [here](https://github.com/THUDM/ProteinLM).
 
 ### Protein-MSA
